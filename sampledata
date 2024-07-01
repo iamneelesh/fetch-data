@@ -1,0 +1,142 @@
+[
+    {
+        "user_id": 1,
+        "name": "Ram",
+        "holdings": [
+            {
+                "crypto_id": 1,
+                "amount": 0.5
+            },
+            {
+                "crypto_id": 2,
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "user_id": 2,
+        "name": "Manan",
+        "holdings": [
+            {
+                "crypto_id": 3,
+                "amount": 1000
+            },
+            {
+                "crypto_id": 4,
+                "amount": 50
+            }
+        ]
+    },
+    {
+        "user_id": 3,
+        "name": "Lakshay",
+        "holdings": [
+            {
+                "crypto_id": 2,
+                "amount": 5
+            },
+            {
+                "crypto_id": 5,
+                "amount": 2000
+            }
+        ]
+    },
+    {
+        "user_id": 4,
+        "name": "Krish",
+        "holdings": [
+            {
+                "crypto_id": 6,
+                "amount": 10
+            },
+            {
+                "crypto_id": 7,
+                "amount": 8
+            }
+        ]
+    },
+    {
+        "user_id": 5,
+        "name": "Anmol",
+        "holdings": [
+            {
+                "crypto_id": 8,
+                "amount": 2
+            },
+            {
+                "crypto_id": 9,
+                "amount": 5000
+            }
+        ]
+    },
+    {
+        "user_id": 6,
+        "name": "Anuj",
+        "holdings": [
+            {
+                "crypto_id": 10,
+                "amount": 10000
+            },
+            {
+                "crypto_id": 1,
+                "amount": 0.1
+            }
+        ]
+    },
+    {
+        "user_id": 7,
+        "name": "Prabal",
+        "holdings": [
+            {
+                "crypto_id": 4,
+                "amount": 15
+            },
+            {
+                "crypto_id": 3,
+                "amount": 700
+            }
+        ]
+    },
+    {
+        "user_id": 8,
+        "name": "Aman",
+        "holdings": [
+            {
+                "crypto_id": 5,
+                "amount": 3000
+            },
+            {
+                "crypto_id": 7,
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "user_id": 9,
+        "name": "Manit",
+        "holdings": [
+            {
+                "crypto_id": 2,
+                "amount": 3
+            },
+            {
+                "crypto_id": 9,
+                "amount": 10000
+            }
+        ]
+    },
+    {
+        "user_id": 10,
+        "name": "Dev",
+        "holdings": [
+            {
+                "crypto_id": 6,
+                "amount": 7
+            },
+            {
+                "crypto_id": 8,
+                "amount": 1
+            }
+        ]
+    }
+]
